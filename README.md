@@ -22,4 +22,4 @@ using Binance trader historical data and sentiment metrics.
 - Traders tend to overtrade during bullish sentiment periods
 
 ## 📧 Contact
-For any queries, please contact: **your-email@example.com**
+For any queries, please contact: **bandivdekar242@gmail.com**
